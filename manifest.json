@@ -1,0 +1,9 @@
+﻿{
+    "Name": "SpeedMeUpScotty",
+    "Author": "RARA",
+    "Version": "1.0.0",
+    "Description": "Speeds up your character",
+    "UniqueID": "YourName.YourProjectName",
+    "EntryDll": "SpeedMeUpScotty.dll",
+    "UpdateKeys": []
+}
